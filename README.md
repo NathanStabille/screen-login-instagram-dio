@@ -1,5 +1,5 @@
 
-# Instagram login screen - DIO Project
+# Instagram Login Screen - DIO Project
 
 <br>
 <br>
